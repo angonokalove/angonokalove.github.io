@@ -37,6 +37,7 @@ h1{
 
 .comment{
 	position: relative;
+	left:10px;
 	z-index: 3;
 	padding-top: 90%;
 }
